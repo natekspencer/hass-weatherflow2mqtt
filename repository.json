@@ -1,4 +1,5 @@
 {
-    "name": "WeatherFlow to MQTT",
-    "url": "https://github.com/briis/hass-weatherflow2mqtt"
+    "name": "WeatherFlow to MQTT - Dev",
+    "url": "https://github.com/briis/hass-weatherflow2mqtt",
+    "maintainer": "Bjarne Riis <https://github.com/briis>"
 }
